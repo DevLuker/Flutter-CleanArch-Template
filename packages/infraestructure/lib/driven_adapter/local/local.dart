@@ -1,0 +1,1 @@
+export 'pokemon_local/pokemon_local.dart';
